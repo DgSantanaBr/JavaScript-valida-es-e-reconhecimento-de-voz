@@ -1,4 +1,4 @@
-# Game-Secret Number
+# JOGO - Número Secreto 
 
 ## Projeto de estudo.
 
